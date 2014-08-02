@@ -1,4 +1,3 @@
-@import url(/t/1.css?apiType=css&projectid=0cc3175a-e210-4fe6-98df-afb108ad3e95);
 /*
     Based on the github style
 */
@@ -99,101 +98,6 @@ pre code {
 
 .hljs-chunk {
     color: #aaa
-}
-@font-face {
-  font-family: "Trade Gothic W01_n4";
-  src: url("/dv2/2/413d9688-00d4-47c4-bb55-656a0cd396e9.eot?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b0321208930094a8d9c30fc39c018151e9cf0e41afbcfbcc584fd3414983fb12473a5ae863154ff90132bfbd6be5c025aee75cc1db567c6d0266ba76ab62d08fdb03cc2e176&projectId=0cc3175a-e210-4fe6-98df-afb108ad3e95") format("eot");
-}
-@font-face {
-  font-family: "Trade Gothic W01";
-  src: url("/dv2/2/413d9688-00d4-47c4-bb55-656a0cd396e9.eot?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b0321208930094a8d9c30fc39c018151e9cf0e41afbcfbcc584fd3414983fb12473a5ae863154ff90132bfbd6be5c025aee75cc1db567c6d0266ba76ab62d08fdb03cc2e176&projectId=0cc3175a-e210-4fe6-98df-afb108ad3e95") format("eot");
-  font-weight: 400;
-  font-style: normal;
-}
-@font-face {
-  font-family: "Trade Gothic W01";
-  src: url("/dv2/2/413d9688-00d4-47c4-bb55-656a0cd396e9.eot?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b0321208930094a8d9c30fc39c018151e9cf0e41afbcfbcc584fd3414983fb12473a5ae863154ff90132bfbd6be5c025aee75cc1db567c6d0266ba76ab62d08fdb03cc2e176&projectId=0cc3175a-e210-4fe6-98df-afb108ad3e95");
-  src: url("/dv2/3/c4aef0d4-bfcf-4790-acf5-909881f411e8.woff?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b0321208930094a8d9c30fc39c018151e9cf0e41afbcfbcc584fd3414983fb12473a5ae863154ff90132bfbd6be5c025aee75cc1db567c6d0266ba76ab62d08fdb03cc2e176&projectId=0cc3175a-e210-4fe6-98df-afb108ad3e95") format("woff"), url("/dv2/1/e741f29c-bc18-4343-bff3-db2465a0be3e.ttf?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b0321208930094a8d9c30fc39c018151e9cf0e41afbcfbcc584fd3414983fb12473a5ae863154ff90132bfbd6be5c025aee75cc1db567c6d0266ba76ab62d08fdb03cc2e176&projectId=0cc3175a-e210-4fe6-98df-afb108ad3e95") format("truetype"), url("/dv2/11/853e2a9b-4057-42a5-ad7e-0762cda0b13c.svg?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b0321208930094a8d9c30fc39c018151e9cf0e41afbcfbcc584fd3414983fb12473a5ae863154ff90132bfbd6be5c025aee75cc1db567c6d0266ba76ab62d08fdb03cc2e176&projectId=0cc3175a-e210-4fe6-98df-afb108ad3e95#853e2a9b-4057-42a5-ad7e-0762cda0b13c") format("svg");
-  font-weight: 400;
-  font-style: normal;
-}
-@font-face {
-  font-family: "Trade Gothic W01_o4";
-  src: url("/dv2/2/59fa12c0-25c9-4c0c-bd1e-32204311d86d.eot?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b0321208930094a8d9c30fc39c018151e9cf0e41afbcfbcc584fd3414983fb12473a5ae863154ff90132bfbd6be5c025aee75cc1db567c6d0266ba76ab62d08fdb03cc2e176&projectId=0cc3175a-e210-4fe6-98df-afb108ad3e95") format("eot");
-}
-@font-face {
-  font-family: "Trade Gothic W01";
-  src: url("/dv2/2/59fa12c0-25c9-4c0c-bd1e-32204311d86d.eot?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b0321208930094a8d9c30fc39c018151e9cf0e41afbcfbcc584fd3414983fb12473a5ae863154ff90132bfbd6be5c025aee75cc1db567c6d0266ba76ab62d08fdb03cc2e176&projectId=0cc3175a-e210-4fe6-98df-afb108ad3e95") format("eot");
-  font-weight: 400;
-  font-style: oblique;
-}
-@font-face {
-  font-family: "Trade Gothic W01";
-  src: url("/dv2/2/59fa12c0-25c9-4c0c-bd1e-32204311d86d.eot?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b0321208930094a8d9c30fc39c018151e9cf0e41afbcfbcc584fd3414983fb12473a5ae863154ff90132bfbd6be5c025aee75cc1db567c6d0266ba76ab62d08fdb03cc2e176&projectId=0cc3175a-e210-4fe6-98df-afb108ad3e95");
-  src: url("/dv2/3/1c164451-034c-41f5-9542-390709016510.woff?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b0321208930094a8d9c30fc39c018151e9cf0e41afbcfbcc584fd3414983fb12473a5ae863154ff90132bfbd6be5c025aee75cc1db567c6d0266ba76ab62d08fdb03cc2e176&projectId=0cc3175a-e210-4fe6-98df-afb108ad3e95") format("woff"), url("/dv2/1/7062b4ff-265a-4366-b34f-443ec5cc2dad.ttf?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b0321208930094a8d9c30fc39c018151e9cf0e41afbcfbcc584fd3414983fb12473a5ae863154ff90132bfbd6be5c025aee75cc1db567c6d0266ba76ab62d08fdb03cc2e176&projectId=0cc3175a-e210-4fe6-98df-afb108ad3e95") format("truetype"), url("/dv2/11/09f52831-e1cf-48be-9c1e-2d1577e420b7.svg?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b0321208930094a8d9c30fc39c018151e9cf0e41afbcfbcc584fd3414983fb12473a5ae863154ff90132bfbd6be5c025aee75cc1db567c6d0266ba76ab62d08fdb03cc2e176&projectId=0cc3175a-e210-4fe6-98df-afb108ad3e95#09f52831-e1cf-48be-9c1e-2d1577e420b7") format("svg");
-  font-weight: 400;
-  font-style: oblique;
-}
-@font-face {
-  font-family: "Trade Gothic W01_n8";
-  src: url("/dv2/2/bb3aa0a7-2585-4e89-ad82-658fd561751a.eot?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b0321208930094a8d9c30fc39c018151e9cf0e41afbcfbcc584fd3414983fb12473a5ae863154ff90132bfbd6be5c025aee75cc1db567c6d0266ba76ab62d08fdb03cc2e176&projectId=0cc3175a-e210-4fe6-98df-afb108ad3e95") format("eot");
-}
-@font-face {
-  font-family: "Trade Gothic W01";
-  src: url("/dv2/2/bb3aa0a7-2585-4e89-ad82-658fd561751a.eot?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b0321208930094a8d9c30fc39c018151e9cf0e41afbcfbcc584fd3414983fb12473a5ae863154ff90132bfbd6be5c025aee75cc1db567c6d0266ba76ab62d08fdb03cc2e176&projectId=0cc3175a-e210-4fe6-98df-afb108ad3e95") format("eot");
-  font-weight: 800;
-  font-style: normal;
-}
-@font-face {
-  font-family: "Trade Gothic W01";
-  src: url("/dv2/2/bb3aa0a7-2585-4e89-ad82-658fd561751a.eot?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b0321208930094a8d9c30fc39c018151e9cf0e41afbcfbcc584fd3414983fb12473a5ae863154ff90132bfbd6be5c025aee75cc1db567c6d0266ba76ab62d08fdb03cc2e176&projectId=0cc3175a-e210-4fe6-98df-afb108ad3e95");
-  src: url("/dv2/3/1454a71d-cdbb-429c-8092-122f4493e0c7.woff?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b0321208930094a8d9c30fc39c018151e9cf0e41afbcfbcc584fd3414983fb12473a5ae863154ff90132bfbd6be5c025aee75cc1db567c6d0266ba76ab62d08fdb03cc2e176&projectId=0cc3175a-e210-4fe6-98df-afb108ad3e95") format("woff"), url("/dv2/1/d5ea405c-2180-4ff0-bd51-3e19fb280be4.ttf?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b0321208930094a8d9c30fc39c018151e9cf0e41afbcfbcc584fd3414983fb12473a5ae863154ff90132bfbd6be5c025aee75cc1db567c6d0266ba76ab62d08fdb03cc2e176&projectId=0cc3175a-e210-4fe6-98df-afb108ad3e95") format("truetype"), url("/dv2/11/70ac6679-cf48-4a0e-a909-d1e3bb4a1aa9.svg?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b0321208930094a8d9c30fc39c018151e9cf0e41afbcfbcc584fd3414983fb12473a5ae863154ff90132bfbd6be5c025aee75cc1db567c6d0266ba76ab62d08fdb03cc2e176&projectId=0cc3175a-e210-4fe6-98df-afb108ad3e95#70ac6679-cf48-4a0e-a909-d1e3bb4a1aa9") format("svg");
-  font-weight: 800;
-  font-style: normal;
-}
-@font-face {
-  font-family: "Trade Gothic W01_o8";
-  src: url("/dv2/2/363fd092-cd55-4bd1-bdc5-cfc9a7057517.eot?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b0321208930094a8d9c30fc39c018151e9cf0e41afbcfbcc584fd3414983fb12473a5ae863154ff90132bfbd6be5c025aee75cc1db567c6d0266ba76ab62d08fdb03cc2e176&projectId=0cc3175a-e210-4fe6-98df-afb108ad3e95") format("eot");
-}
-@font-face {
-  font-family: "Trade Gothic W01";
-  src: url("/dv2/2/363fd092-cd55-4bd1-bdc5-cfc9a7057517.eot?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b0321208930094a8d9c30fc39c018151e9cf0e41afbcfbcc584fd3414983fb12473a5ae863154ff90132bfbd6be5c025aee75cc1db567c6d0266ba76ab62d08fdb03cc2e176&projectId=0cc3175a-e210-4fe6-98df-afb108ad3e95") format("eot");
-  font-weight: 800;
-  font-style: oblique;
-}
-@font-face {
-  font-family: "Trade Gothic W01";
-  src: url("/dv2/2/363fd092-cd55-4bd1-bdc5-cfc9a7057517.eot?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b0321208930094a8d9c30fc39c018151e9cf0e41afbcfbcc584fd3414983fb12473a5ae863154ff90132bfbd6be5c025aee75cc1db567c6d0266ba76ab62d08fdb03cc2e176&projectId=0cc3175a-e210-4fe6-98df-afb108ad3e95");
-  src: url("/dv2/3/25f577c3-f32b-4fbf-b684-3e7c1a76d1ea.woff?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b0321208930094a8d9c30fc39c018151e9cf0e41afbcfbcc584fd3414983fb12473a5ae863154ff90132bfbd6be5c025aee75cc1db567c6d0266ba76ab62d08fdb03cc2e176&projectId=0cc3175a-e210-4fe6-98df-afb108ad3e95") format("woff"), url("/dv2/1/2ed49e17-92ad-4026-9ae6-d20f88f21840.ttf?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b0321208930094a8d9c30fc39c018151e9cf0e41afbcfbcc584fd3414983fb12473a5ae863154ff90132bfbd6be5c025aee75cc1db567c6d0266ba76ab62d08fdb03cc2e176&projectId=0cc3175a-e210-4fe6-98df-afb108ad3e95") format("truetype"), url("/dv2/11/969cd675-2b4c-4baa-ada6-62bb7ace778f.svg?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b0321208930094a8d9c30fc39c018151e9cf0e41afbcfbcc584fd3414983fb12473a5ae863154ff90132bfbd6be5c025aee75cc1db567c6d0266ba76ab62d08fdb03cc2e176&projectId=0cc3175a-e210-4fe6-98df-afb108ad3e95#969cd675-2b4c-4baa-ada6-62bb7ace778f") format("svg");
-  font-weight: 800;
-  font-style: oblique;
-}
-@font-face {
-  font-family: "Trade Gothic W02_n7";
-  src: url("/dv2/2/e4693908-7208-4b04-93c4-8d004c3b4e1f.eot?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b0321208930094a8d9c30fc39c018151e9cf0e41afbcfbcc584fd3414983fb12473a5ae863154ff90132bfbd6be5c025aee75cc1db567c6d0266ba76ab62d08fdb03cc2e176&projectId=0cc3175a-e210-4fe6-98df-afb108ad3e95") format("eot");
-}
-@font-face {
-  font-family: "Trade Gothic W02";
-  src: url("/dv2/2/e4693908-7208-4b04-93c4-8d004c3b4e1f.eot?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b0321208930094a8d9c30fc39c018151e9cf0e41afbcfbcc584fd3414983fb12473a5ae863154ff90132bfbd6be5c025aee75cc1db567c6d0266ba76ab62d08fdb03cc2e176&projectId=0cc3175a-e210-4fe6-98df-afb108ad3e95") format("eot");
-  font-weight: 700;
-  font-style: normal;
-}
-@font-face {
-  font-family: "Trade Gothic W02";
-  src: url("/dv2/2/e4693908-7208-4b04-93c4-8d004c3b4e1f.eot?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b0321208930094a8d9c30fc39c018151e9cf0e41afbcfbcc584fd3414983fb12473a5ae863154ff90132bfbd6be5c025aee75cc1db567c6d0266ba76ab62d08fdb03cc2e176&projectId=0cc3175a-e210-4fe6-98df-afb108ad3e95");
-  src: url("/dv2/3/e2fbc63c-e7b1-4828-b0b6-275131d16fd0.woff?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b0321208930094a8d9c30fc39c018151e9cf0e41afbcfbcc584fd3414983fb12473a5ae863154ff90132bfbd6be5c025aee75cc1db567c6d0266ba76ab62d08fdb03cc2e176&projectId=0cc3175a-e210-4fe6-98df-afb108ad3e95") format("woff"), url("/dv2/1/805d9356-a4a5-46df-8390-957c803e33bc.ttf?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b0321208930094a8d9c30fc39c018151e9cf0e41afbcfbcc584fd3414983fb12473a5ae863154ff90132bfbd6be5c025aee75cc1db567c6d0266ba76ab62d08fdb03cc2e176&projectId=0cc3175a-e210-4fe6-98df-afb108ad3e95") format("truetype"), url("/dv2/11/df0f9c50-3ce3-4b1f-8120-074ca66b83b1.svg?d44f19a684109620e484157aa690e818a325740899ad3ecc8e06711149f755d82dc30c8e25d36f7df2315c3e96168d5a1e5401f9d2bbf0edd759f0bb0e0b0321208930094a8d9c30fc39c018151e9cf0e41afbcfbcc584fd3414983fb12473a5ae863154ff90132bfbd6be5c025aee75cc1db567c6d0266ba76ab62d08fdb03cc2e176&projectId=0cc3175a-e210-4fe6-98df-afb108ad3e95#df0f9c50-3ce3-4b1f-8120-074ca66b83b1") format("svg");
-  font-weight: 700;
-  font-style: normal;
-}
-Trade Gothic W01 Bold 2 {
-  font-family: "Trade Gothic W02_n7";
-}
-@media all and (min-width: 0px) {
-  Trade Gothic W01 Bold 2 {
-    font-family: "Trade Gothic W02";
-    font-weight: 700;
-    font-style: normal;
-  }
 }
 /*! normalize.css v2.1.3 | MIT License | git.io/normalize */
 article,
@@ -439,7 +343,7 @@ table {
   }
 }
 p {
-  margin: 0 0 10px;
+  margin: 0 0 11px;
 }
 /*.lead {
   margin-bottom: @line-height-computed;
@@ -512,7 +416,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Trade Gothic W02", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif, "Trade Gothic W02", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Trade Gothic W01", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif, "Trade Gothic W01", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 500;
   line-height: 1.1;
   color: inherit;
@@ -548,8 +452,8 @@ h6 .small,
 h1,
 h2,
 h3 {
-  margin-top: 20px;
-  margin-bottom: 10px;
+  margin-top: 22px;
+  margin-bottom: 11px;
 }
 h1 small,
 h2 small,
@@ -562,8 +466,8 @@ h3 .small {
 h4,
 h5,
 h6 {
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: 11px;
+  margin-bottom: 11px;
 }
 h4 small,
 h5 small,
@@ -575,37 +479,37 @@ h6 .small {
 }
 h1,
 .h1 {
-  font-size: 38px;
+  font-size: 44px;
 }
 h2,
 .h2 {
-  font-size: 31px;
+  font-size: 36px;
 }
 h3,
 .h3 {
-  font-size: 24px;
+  font-size: 28px;
 }
 h4,
 .h4 {
-  font-size: 18px;
+  font-size: 20px;
 }
 h5,
 .h5 {
-  font-size: 14px;
+  font-size: 16px;
 }
 h6,
 .h6 {
-  font-size: 12px;
+  font-size: 14px;
 }
 .page-header {
-  padding-bottom: 9px;
-  margin: 40px 0 20px;
+  padding-bottom: 10px;
+  margin: 44px 0 22px;
   border-bottom: 1px solid #eeeeee;
 }
 ul,
 ol {
   margin-top: 0;
-  margin-bottom: 10px;
+  margin-bottom: 11px;
 }
 ul ul,
 ol ul,
@@ -627,11 +531,11 @@ ol ol {
   padding-right: 5px;
 }
 dl {
-  margin-bottom: 20px;
+  margin-bottom: 22px;
 }
 dt,
 dd {
-  line-height: 1.42857143;
+  line-height: 1.375;
 }
 dt {
   font-weight: bold;
@@ -683,8 +587,8 @@ abbr.initialism {
   text-transform: uppercase;
 }
 blockquote {
-  padding: 10px 20px;
-  margin: 0 0 20px;
+  padding: 11px 22px;
+  margin: 0 0 22px;
   border-left: 4px solid #eeeeee;
 }
 blockquote p {
@@ -697,7 +601,7 @@ blockquote p:last-child {
 }
 blockquote small {
   display: block;
-  line-height: 1.42857143;
+  line-height: 1.375;
   color: #999999;
 }
 blockquote small:before {
@@ -727,9 +631,9 @@ blockquote:after {
   content: "";
 }
 address {
-  margin-bottom: 20px;
+  margin-bottom: 22px;
   font-style: normal;
-  line-height: 1.42857143;
+  line-height: 1.375;
 }
 code,
 kbd,
@@ -747,10 +651,10 @@ code {
 }
 pre {
   display: block;
-  padding: 9.5px;
-  margin: 0 0 10px;
-  font-size: 13px;
-  line-height: 1.42857143;
+  padding: 10.5px;
+  margin: 0 0 11px;
+  font-size: 15px;
+  line-height: 1.375;
   word-break: break-all;
   word-wrap: break-word;
   color: #333333;
@@ -1438,8 +1342,8 @@ legend {
   display: block;
   width: 100%;
   padding: 0;
-  margin-bottom: 20px;
-  font-size: 21px;
+  margin-bottom: 22px;
+  font-size: 24px;
   line-height: inherit;
   color: #333333;
   border: 0;
@@ -1488,8 +1392,8 @@ input[type="number"]::-webkit-inner-spin-button {
 output {
   display: block;
   padding-top: 7px;
-  font-size: 14px;
-  line-height: 1.42857143;
+  font-size: 16px;
+  line-height: 1.375;
   color: #555555;
   vertical-align: middle;
 }
@@ -1508,10 +1412,10 @@ output {
 .form-control {
   display: block;
   width: 100%;
-  height: 34px;
+  height: 36px;
   padding: 6px 12px;
-  font-size: 14px;
-  line-height: 1.42857143;
+  font-size: 16px;
+  line-height: 1.375;
   color: #555555;
   vertical-align: middle;
   background-color: #ffffff;
@@ -1544,7 +1448,7 @@ textarea.form-control {
 .radio,
 .checkbox {
   display: block;
-  min-height: 20px;
+  min-height: 22px;
   margin-top: 10px;
   margin-bottom: 10px;
   padding-left: 20px;
@@ -1597,29 +1501,29 @@ fieldset[disabled] .checkbox-inline {
   cursor: not-allowed;
 }
 .input-sm {
-  height: 30px;
+  height: 33px;
   padding: 5px 10px;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 1.5;
   border-radius: 3px;
 }
 select.input-sm {
-  height: 30px;
-  line-height: 30px;
+  height: 33px;
+  line-height: 33px;
 }
 textarea.input-sm {
   height: auto;
 }
 .input-lg {
-  height: 45px;
+  height: 48px;
   padding: 10px 16px;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.33;
   border-radius: 6px;
 }
 select.input-lg {
-  height: 45px;
-  line-height: 45px;
+  height: 48px;
+  line-height: 48px;
 }
 textarea.input-lg {
   height: auto;
@@ -1764,8 +1668,8 @@ textarea.input-lg {
   border: 1px solid transparent;
   white-space: nowrap;
   padding: 6px 12px;
-  font-size: 14px;
-  line-height: 1.42857143;
+  font-size: 16px;
+  line-height: 1.375;
   border-radius: 4px;
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -2057,14 +1961,14 @@ fieldset[disabled] .btn-link:focus {
 }
 .btn-lg {
   padding: 10px 16px;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.33;
   border-radius: 6px;
 }
 .btn-sm,
 .btn-xs {
   padding: 5px 10px;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 1.5;
   border-radius: 3px;
 }
@@ -2752,7 +2656,7 @@ input[type="button"].btn-block {
   padding: 5px 0;
   margin: 2px 0 0;
   list-style: none;
-  font-size: 14px;
+  font-size: 16px;
   background-color: #ffffff;
   border: 1px solid #cccccc;
   border: 1px solid rgba(0, 0, 0, 0.15);
@@ -2767,7 +2671,7 @@ input[type="button"].btn-block {
 }
 .dropdown-menu .divider {
   height: 1px;
-  margin: 9px 0;
+  margin: 10px 0;
   overflow: hidden;
   background-color: #e5e5e5;
 }
@@ -2776,7 +2680,7 @@ input[type="button"].btn-block {
   padding: 3px 20px;
   clear: both;
   font-weight: normal;
-  line-height: 1.42857143;
+  line-height: 1.375;
   color: #333333;
   white-space: nowrap;
 }
@@ -2816,8 +2720,8 @@ input[type="button"].btn-block {
 .dropdown-header {
   display: block;
   padding: 3px 20px;
-  font-size: 12px;
-  line-height: 1.42857143;
+  font-size: 14px;
+  line-height: 1.375;
   color: #999999;
 }
 .dropdown-backdrop {
@@ -2966,20 +2870,20 @@ input[type="button"].btn-block {
 }
 .btn-group-xs > .btn {
   padding: 5px 10px;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 1.5;
   border-radius: 3px;
   padding: 1px 5px;
 }
 .btn-group-sm > .btn {
   padding: 5px 10px;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 1.5;
   border-radius: 3px;
 }
 .btn-group-lg > .btn {
   padding: 10px 16px;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.33;
   border-radius: 6px;
 }
@@ -3099,17 +3003,17 @@ input[type="button"].btn-block {
 .input-group-lg > .form-control,
 .input-group-lg > .input-group-addon,
 .input-group-lg > .input-group-btn > .btn {
-  height: 45px;
+  height: 48px;
   padding: 10px 16px;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.33;
   border-radius: 6px;
 }
 select.input-group-lg > .form-control,
 select.input-group-lg > .input-group-addon,
 select.input-group-lg > .input-group-btn > .btn {
-  height: 45px;
-  line-height: 45px;
+  height: 48px;
+  line-height: 48px;
 }
 textarea.input-group-lg > .form-control,
 textarea.input-group-lg > .input-group-addon,
@@ -3119,17 +3023,17 @@ textarea.input-group-lg > .input-group-btn > .btn {
 .input-group-sm > .form-control,
 .input-group-sm > .input-group-addon,
 .input-group-sm > .input-group-btn > .btn {
-  height: 30px;
+  height: 33px;
   padding: 5px 10px;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 1.5;
   border-radius: 3px;
 }
 select.input-group-sm > .form-control,
 select.input-group-sm > .input-group-addon,
 select.input-group-sm > .input-group-btn > .btn {
-  height: 30px;
-  line-height: 30px;
+  height: 33px;
+  line-height: 33px;
 }
 textarea.input-group-sm > .form-control,
 textarea.input-group-sm > .input-group-addon,
@@ -3154,7 +3058,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 .input-group-addon {
   padding: 6px 12px;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: normal;
   line-height: 1;
   color: #555555;
@@ -3165,12 +3069,12 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 .input-group-addon.input-sm {
   padding: 5px 10px;
-  font-size: 12px;
+  font-size: 14px;
   border-radius: 3px;
 }
 .input-group-addon.input-lg {
   padding: 10px 16px;
-  font-size: 18px;
+  font-size: 20px;
   border-radius: 6px;
 }
 .input-group-addon input[type="radio"],
@@ -3282,7 +3186,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 .nav .nav-divider {
   height: 1px;
-  margin: 9px 0;
+  margin: 10px 0;
   overflow: hidden;
   background-color: #e5e5e5;
 }
@@ -3298,7 +3202,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 .nav-tabs > li > a {
   margin-right: 2px;
-  line-height: 1.42857143;
+  line-height: 1.375;
   border: 1px solid transparent;
   border-radius: 4px 4px 0 0;
 }
@@ -3446,8 +3350,8 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar {
   position: relative;
   z-index: 1000;
-  min-height: 60px;
-  margin-bottom: 20px;
+  min-height: 61px;
+  margin-bottom: 0px;
   border: 1px solid transparent;
 }
 .navbar:before,
@@ -3600,9 +3504,9 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 .navbar-brand {
   float: left;
-  padding: 20px 15px;
-  font-size: 18px;
-  line-height: 20px;
+  padding: 19.5px 15px;
+  font-size: 20px;
+  line-height: 22px;
 }
 .navbar-brand:hover,
 .navbar-brand:focus {
@@ -3617,9 +3521,9 @@ textarea.input-group-sm > .input-group-btn > .btn {
   position: relative;
   float: right;
   margin-right: 15px;
-  padding: 9px 10px;
-  margin-top: 13px;
-  margin-bottom: 13px;
+  padding: 0px 10px;
+  margin-top: 13.5px;
+  margin-bottom: 13.5px;
   background-color: transparent;
   border: 1px solid transparent;
   border-radius: 4px;
@@ -3639,12 +3543,12 @@ textarea.input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-nav {
-  margin: 10px -15px;
+  margin: 9.75px -15px;
 }
 .navbar-nav > li > a {
   padding-top: 10px;
   padding-bottom: 10px;
-  line-height: 20px;
+  line-height: 22px;
 }
 @media (max-width: 767px) {
   .navbar-nav .open .dropdown-menu {
@@ -3661,7 +3565,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
     padding: 5px 15px 5px 25px;
   }
   .navbar-nav .open .dropdown-menu > li > a {
-    line-height: 20px;
+    line-height: 22px;
   }
   .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-nav .open .dropdown-menu > li > a:focus {
@@ -3677,8 +3581,8 @@ textarea.input-group-sm > .input-group-btn > .btn {
     float: left;
   }
   .navbar-nav > li > a {
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 19.5px;
+    padding-bottom: 19.5px;
   }
 }
 @media (min-width: 768px) {
@@ -3697,8 +3601,8 @@ textarea.input-group-sm > .input-group-btn > .btn {
   border-bottom: 1px solid transparent;
   -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(255, 255, 255, 0.1);
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(255, 255, 255, 0.1);
-  margin-top: 13px;
-  margin-bottom: 13px;
+  margin-top: 12.5px;
+  margin-bottom: 12.5px;
 }
 @media (min-width: 768px) {
   .navbar-form .form-group {
@@ -3754,13 +3658,13 @@ textarea.input-group-sm > .input-group-btn > .btn {
   right: 0;
 }
 .navbar-btn {
-  margin-top: 13px;
-  margin-bottom: 13px;
+  margin-top: 12.5px;
+  margin-bottom: 12.5px;
 }
 .navbar-text {
   float: left;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 19.5px;
+  margin-bottom: 19.5px;
 }
 @media (min-width: 768px) {
   .navbar-text {
@@ -3968,7 +3872,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 .breadcrumb {
   padding: 8px 15px;
-  margin-bottom: 20px;
+  margin-bottom: 22px;
   list-style: none;
   background-color: #f5f5f5;
   border-radius: 4px;
@@ -3987,7 +3891,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .pagination {
   display: inline-block;
   padding-left: 0;
-  margin: 20px 0;
+  margin: 22px 0;
   border-radius: 4px;
 }
 .pagination > li {
@@ -3998,7 +3902,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   position: relative;
   float: left;
   padding: 6px 12px;
-  line-height: 1.42857143;
+  line-height: 1.375;
   text-decoration: none;
   background-color: #ffffff;
   border: 1px solid #dddddd;
@@ -4047,7 +3951,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .pagination-lg > li > a,
 .pagination-lg > li > span {
   padding: 10px 16px;
-  font-size: 18px;
+  font-size: 20px;
 }
 .pagination-lg > li:first-child > a,
 .pagination-lg > li:first-child > span {
@@ -4062,7 +3966,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .pagination-sm > li > a,
 .pagination-sm > li > span {
   padding: 5px 10px;
-  font-size: 12px;
+  font-size: 14px;
 }
 .pagination-sm > li:first-child > a,
 .pagination-sm > li:first-child > span {
@@ -4076,7 +3980,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 .pager {
   padding-left: 0;
-  margin: 20px 0;
+  margin: 22px 0;
   list-style: none;
   text-align: center;
 }
@@ -4199,7 +4103,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   display: inline-block;
   min-width: 10px;
   padding: 3px 7px;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: bold;
   color: #ffffff;
   line-height: 1;
@@ -4233,9 +4137,9 @@ a.list-group-item.active > .badge,
 .jumbotron {
   padding: 30px;
   margin-bottom: 30px;
-  font-size: 21px;
+  font-size: 24px;
   font-weight: 200;
-  line-height: 2.14285714;
+  line-height: 2.0625;
   color: inherit;
   background-color: #eeeeee;
 }
@@ -4259,12 +4163,12 @@ a.list-group-item.active > .badge,
     padding-right: 60px;
   }
   .jumbotron h1 {
-    font-size: 63px;
+    font-size: 72px;
   }
 }
 .thumbnail {
   padding: 4px;
-  line-height: 1.42857143;
+  line-height: 1.375;
   background-color: #f7f7f7;
   border: 1px solid #dddddd;
   border-radius: 4px;
@@ -4274,7 +4178,7 @@ a.list-group-item.active > .badge,
   max-width: 100%;
   height: auto;
   display: block;
-  margin-bottom: 20px;
+  margin-bottom: 22px;
 }
 .thumbnail > img {
   display: block;
@@ -4296,7 +4200,7 @@ a.thumbnail.active {
 }
 .alert {
   padding: 15px;
-  margin-bottom: 20px;
+  margin-bottom: 22px;
   border: 1px solid transparent;
   border-radius: 4px;
 }
@@ -4401,8 +4305,8 @@ a.thumbnail.active {
 }
 .progress {
   overflow: hidden;
-  height: 20px;
-  margin-bottom: 20px;
+  height: 22px;
+  margin-bottom: 22px;
   background-color: #f5f5f5;
   border-radius: 4px;
   -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
@@ -4412,8 +4316,8 @@ a.thumbnail.active {
   float: left;
   width: 0%;
   height: 100%;
-  font-size: 12px;
-  line-height: 20px;
+  font-size: 14px;
+  line-height: 22px;
   color: #ffffff;
   text-align: center;
   background-color: #a30f3d;
@@ -4565,7 +4469,7 @@ a.list-group-item.active:focus .list-group-item-text {
   line-height: 1.3;
 }
 .panel {
-  margin-bottom: 20px;
+  margin-bottom: 22px;
   background-color: #ffffff;
   border: 1px solid transparent;
   border-radius: 4px;
@@ -4674,7 +4578,7 @@ a.list-group-item.active:focus .list-group-item-text {
 .panel-title {
   margin-top: 0;
   margin-bottom: 0;
-  font-size: 16px;
+  font-size: 18px;
 }
 .panel-title > a {
   color: inherit;
@@ -4814,7 +4718,7 @@ a.list-group-item.active:focus .list-group-item-text {
 }
 .close {
   float: right;
-  font-size: 21px;
+  font-size: 24px;
   font-weight: bold;
   line-height: 1;
   color: #000000;
@@ -4903,14 +4807,14 @@ button.close {
 .modal-header {
   padding: 15px;
   border-bottom: 1px solid #e5e5e5;
-  min-height: 16.42857143px;
+  min-height: 16.375px;
 }
 .modal-header .close {
   margin-top: -2px;
 }
 .modal-title {
   margin: 0;
-  line-height: 1.42857143;
+  line-height: 1.375;
 }
 .modal-body {
   position: relative;
@@ -4968,7 +4872,7 @@ button.close {
   z-index: 1030;
   display: block;
   visibility: visible;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 1.4;
   opacity: 0;
   filter: alpha(opacity=0);
@@ -5093,7 +4997,7 @@ button.close {
 .popover-title {
   margin: 0;
   padding: 8px 14px;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: normal;
   line-height: 18px;
   background-color: #f7f7f7;
@@ -6027,9 +5931,9 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Trade Gothic W02", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  line-height: 1.42857143;
+  font-family: "Trade Gothic W01", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.375;
   color: #333333;
   background-color: #f7f7f7;
 }
@@ -6068,7 +5972,7 @@ img {
 }
 .img-thumbnail {
   padding: 4px;
-  line-height: 1.42857143;
+  line-height: 1.375;
   background-color: #f7f7f7;
   border: 1px solid #dddddd;
   border-radius: 4px;
@@ -6082,8 +5986,8 @@ img {
   border-radius: 50%;
 }
 hr {
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 22px;
+  margin-bottom: 22px;
   border: 0;
   border-top: 1px solid #eeeeee;
 }
@@ -6360,7 +6264,7 @@ th {
 }
 .table {
   width: 100%;
-  margin-bottom: 20px;
+  margin-bottom: 22px;
 }
 .table > thead > tr > th,
 .table > tbody > tr > th,
@@ -6369,7 +6273,7 @@ th {
 .table > tbody > tr > td,
 .table > tfoot > tr > td {
   padding: 8px;
-  line-height: 1.42857143;
+  line-height: 1.375;
   vertical-align: top;
   border-top: 1px solid #dddddd;
 }
@@ -6514,7 +6418,7 @@ table th[class*="col-"] {
 @media (max-width: 767px) {
   .table-responsive {
     width: 100%;
-    margin-bottom: 15px;
+    margin-bottom: 16.5px;
     overflow-y: hidden;
     overflow-x: scroll;
     -ms-overflow-style: -ms-autohiding-scrollbar;
@@ -6577,6 +6481,113 @@ table th[class*="col-"] {
 }
 .docs-section + .docs-section {
   padding-top: 40px;
+}
+.docs-section {
+  margin-bottom: 60px;
+}
+.docs-section:last-child {
+  margin-bottom: 0;
+}
+/**
+ * Add a width to docs-headings inside section-content,
+ * so we easily get the .anchor when hovering over headings.
+ *
+ * **Example**:
+ *
+ * ```html
+ * <div class="docs-section">
+ *   <div class="section-content">
+ *     <h3 class="docs-heading"></h3>
+ *   </div>
+ * </div>
+ * ```
+ */
+.section-content .docs-heading {
+  max-width: 60%;
+}
+/**
+ * Remove the width on major headings, so we don't cause them to wrap.
+ * This class is probably unnecessary, but we'll do it for insurance.
+ *
+ * **Example**:
+ *
+ * ```html
+ * <div class="docs-section">
+ *   <div class="page-heading">
+ *     <h3 class="docs-heading"></h3>
+ *   </div>
+ * </div>
+ * ```
+ */
+.page-heading .docs-heading {
+  max-width: auto;
+}
+h1[id] {
+  margin-top: 0;
+  padding-top: 20px;
+}
+.docs-section p {
+  font-family: "Trade Gothic W01", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  margin: 20px 0;
+}
+.docs-section blockquote {
+  position: relative;
+  margin: 0 1rem 1rem;
+  font-style: italic;
+  color: #7a7a7a;
+}
+.docs-section blockquote > p {
+  font-size: 14px;
+  font-family: "Trade Gothic W01", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  margin: 0;
+  padding: 10px;
+}
+.docs-section h1,
+.docs-section h2,
+.docs-section h3 {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.docs-section h1 {
+  font-size: 44px;
+  line-height: 48px;
+}
+.docs-section h2 {
+  /*    font-size: 24px;
+    color: @link-color;*/
+  font-size: 32px;
+  line-height: 50px;
+}
+.docs-section h3 {
+  /*font-size: 20px;*/
+  font-size: 23px;
+  line-height: 24px;
+}
+.docs-section .h1,
+.docs-section .h2,
+.docs-section .h3 {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.docs-section .h1 {
+  font-size: 44px;
+  line-height: 48px;
+}
+.docs-section .h2 {
+  font-size: 32px;
+  line-height: 50px;
+}
+.docs-section .h3 {
+  font-size: 23px;
+  line-height: 24px;
+}
+.section-content {
+  position: relative;
+}
+.docs-section img {
+  margin-bottom: 10px;
 }
 .sidebar {
   display: none;
@@ -6660,49 +6671,67 @@ table th[class*="col-"] {
 .sidebar .glyphicon {
   margin-left: 0px;
 }
+/*
 .docs-nav {
-  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.15);
-  background-color: #f8f8f8;
-  border-color: rgba(0, 0, 0, 0.2);
-  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.07);
-}
-.docs-nav .navbar-collapse {
-  border-color: #740b2c;
-}
-.docs-nav .container .navbar-brand {
-  margin: 5px 0 12px 0;
-  width: 300px;
-  padding: 0;
-}
-.docs-nav .container .navbar-brand img {
-  display: block;
-  max-width: 100%;
-  height: auto;
-}
-@media (max-width: 767px) {
-  .docs-nav .container .navbar-brand img {
-    margin-left: 10px;
+  text-shadow: 0 -1px 0 rgba(0,0,0,.15);
+  // background-color: @navbar-inverse-bg;
+  background-color: @navbar-default-bg;
+  border-color: rgba(0,0,0,.2);
+  box-shadow: 0 1px 0 rgba(255,255,255,.07);
+
+  .navbar-collapse {
+    border-color: @navbar-inverse-border;
+    // border-color: @navbar-default-border;
+  }
+
+  // increase specificity to override Bootstrap styles
+  .container .navbar-brand {
+    //margin: 5px 0 12px 0;
+    width: 300px;
+    padding: 0;
+
+    // to resize image, only the width and margin of
+    // the parent, .navbar-brand, needs to be adjusted
+    img {
+      .img-responsive();
+
+      @media (max-width: @screen-xs-max) {
+        margin-left:10px;
+
+      }
+    }
+  }
+
+  .navbar-nav > li > a {
+    padding-top: 12px;
+    // color: @navbar-inverse-link-color;
+    color: @navbar-default-link-color;
+    &:hover {
+      color: #fff;
+    }
+  }
+
+  .navbar-nav > .active > a {
+    &, &:hover {
+      color: #fff;
+      background-color: rgba(0,0,0,.2);
+    }
+  }
+
+  .navbar-toggle {
+    border-color: @navbar-inverse-bg;
+    //border-color: @navbar-default-bg;
+    &:hover {
+      background-color: @navbar-inverse-border;
+      border-color: @navbar-inverse-border;
+      // background-color: @navbar-default-border;
+      // border-color: @navbar-default-border;
+    }
   }
 }
-.docs-nav .navbar-nav > li > a {
-  padding-top: 12px;
-  color: #777777;
-}
-.docs-nav .navbar-nav > li > a:hover {
-  color: #fff;
-}
-.docs-nav .navbar-nav > .active > a,
-.docs-nav .navbar-nav > .active > a:hover {
-  color: #fff;
-  background-color: rgba(0, 0, 0, 0.2);
-}
-.docs-nav .navbar-toggle {
-  border-color: #a30f3d;
-}
-.docs-nav .navbar-toggle:hover {
-  background-color: #740b2c;
-  border-color: #740b2c;
-}
+
+
+*/
 .btn-outline {
   color: #a30f3d;
   background-color: #fff;
@@ -6741,6 +6770,11 @@ table th[class*="col-"] {
 }
 .sidebar .sidenav-link {
   margin-top: 10px;
+}
+/* offset for font awesome padding on social icons */
+.nav .btn-social-icon {
+  padding-bottom: 0px;
+  padding-top: 14px;
 }
 .newsitem p {
   margin-left: 25px;
@@ -6795,7 +6829,7 @@ h3 .anchor:hover {
   width: 100px;
   padding: 15px;
   color: #999999;
-  font-size: 18px;
+  font-size: 20px;
   text-align: right;
 }
 .section-content .source-link.active,
