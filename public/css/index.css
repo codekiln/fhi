@@ -3673,8 +3673,8 @@ textarea.input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-default {
-  background-color: #f8f8f8;
-  border-color: #e7e7e7;
+  background-color: #ffffff;
+  border-color: #eeeeee;
 }
 .navbar-default .navbar-brand {
   color: #777777;
@@ -3692,14 +3692,14 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #333333;
+  color: #0d667f;
   background-color: transparent;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  color: #555555;
-  background-color: #e7e7e7;
+  color: #0d667f;
+  background-color: #afe6f1;
 }
 .navbar-default .navbar-nav > .disabled > a,
 .navbar-default .navbar-nav > .disabled > a:hover,
@@ -3719,24 +3719,24 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
-  border-color: #e7e7e7;
+  border-color: #eeeeee;
 }
 .navbar-default .navbar-nav > .dropdown > a:hover .caret,
 .navbar-default .navbar-nav > .dropdown > a:focus .caret {
-  border-top-color: #333333;
-  border-bottom-color: #333333;
+  border-top-color: #0d667f;
+  border-bottom-color: #0d667f;
 }
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-  background-color: #e7e7e7;
-  color: #555555;
+  background-color: #afe6f1;
+  color: #0d667f;
 }
 .navbar-default .navbar-nav > .open > a .caret,
 .navbar-default .navbar-nav > .open > a:hover .caret,
 .navbar-default .navbar-nav > .open > a:focus .caret {
-  border-top-color: #555555;
-  border-bottom-color: #555555;
+  border-top-color: #0d667f;
+  border-bottom-color: #0d667f;
 }
 .navbar-default .navbar-nav > .dropdown > a .caret {
   border-top-color: #777777;
@@ -3748,14 +3748,14 @@ textarea.input-group-sm > .input-group-btn > .btn {
   }
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
-    color: #333333;
+    color: #0d667f;
     background-color: transparent;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
-    color: #555555;
-    background-color: #e7e7e7;
+    color: #0d667f;
+    background-color: #afe6f1;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:hover,
@@ -3768,7 +3768,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   color: #777777;
 }
 .navbar-default .navbar-link:hover {
-  color: #333333;
+  color: #0d667f;
 }
 .navbar-inverse {
   background-color: #a30f3d;
@@ -6526,60 +6526,64 @@ h1[id] {
   margin-top: 0;
   padding-top: 20px;
 }
-.docs-section p {
+.docs-container p {
   font-family: "Trade Gothic W01", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   margin: 20px 0;
 }
-.docs-section blockquote {
+.docs-container blockquote {
   position: relative;
   margin: 0 1rem 1rem;
   font-style: italic;
   color: #7a7a7a;
 }
-.docs-section blockquote > p {
+.docs-container blockquote > p {
   font-size: 14px;
   font-family: "Trade Gothic W01", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1.5;
   margin: 0;
   padding: 10px;
 }
-.docs-section h1,
-.docs-section h2,
-.docs-section h3 {
+.docs-container h1,
+.docs-container h2,
+.docs-container h3 {
   text-transform: uppercase;
   font-weight: bold;
 }
-.docs-section h1 {
+.docs-container h1 {
   font-size: 44px;
   line-height: 48px;
+  letter-spacing: 0;
+  text-rendering: optimizeLegibility;
 }
-.docs-section h2 {
+.docs-container h2 {
   /*    font-size: 24px;
     color: @link-color;*/
   font-size: 32px;
-  line-height: 50px;
+  line-height: 40px;
 }
-.docs-section h3 {
+.docs-container h3 {
   /*font-size: 20px;*/
   font-size: 23px;
-  line-height: 24px;
+  line-height: 28px;
 }
-.docs-section .h1,
-.docs-section .h2,
-.docs-section .h3 {
+.docs-container .h1,
+.docs-container .h2,
+.docs-container .h3 {
   text-transform: uppercase;
   font-weight: bold;
 }
-.docs-section .h1 {
+.docs-container .h1 {
   font-size: 44px;
   line-height: 48px;
+  letter-spacing: 0;
+  text-rendering: optimizeLegibility;
 }
-.docs-section .h2 {
+.docs-container .h2 {
   font-size: 32px;
-  line-height: 50px;
+  line-height: 40px;
 }
-.docs-section .h3 {
+.docs-container .h3 {
   font-size: 23px;
   line-height: 24px;
 }
@@ -6591,6 +6595,9 @@ h1[id] {
 }
 .sidebar {
   display: none;
+}
+.sidebar .panel {
+  margin-top: 10px;
 }
 .sidebar.affix {
   position: static;
@@ -6670,6 +6677,14 @@ h1[id] {
 }
 .sidebar .glyphicon {
   margin-left: 0px;
+}
+.sidebar .sidenav-link {
+  margin-bottom: 0px;
+}
+.docs-nav .caret {
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-top: 6px solid;
 }
 /*
 .docs-nav {
