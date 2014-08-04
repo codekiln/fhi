@@ -6806,6 +6806,9 @@ h1[id] {
 .newsitem span {
   color: #a30f3d;
 }
+.newsitem .source {
+  font-style: italic;
+}
 .anchor,
 .anchor:empty {
   position: absolute;
